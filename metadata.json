@@ -1,0 +1,10 @@
+{
+  "name": "Medicine Recognition System",
+  "description": "An advanced machine learning-powered image processing system to identify pharmaceutical products, extract prescription details, provide dosage information, and offer visual analysis of pills, capsules, and packaging.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
